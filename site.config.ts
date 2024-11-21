@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Vocabulary Lists & Note Guides',
   domain: 'academics.shauryav.com',
   author: 'Shaurya Verma',
 
