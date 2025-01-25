@@ -7,12 +7,12 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
-            <link rel='shortcut icon' href='https://i.imgur.com/AUi8GVr.jpg?3' />
+            <link rel='shortcut icon' href='https://i.imgur.com/nS1QUd2.png' />
             <link
               rel='icon'
               type='image/link'
               sizes='32x32'
-              href='https://i.imgur.com/AUi8GVr.jpg?3'
+              href='https://i.imgur.com/nS1QUd2.png'
             />
 
             <link rel='manifest' href='/manifest.json' />
